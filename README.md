@@ -10,7 +10,7 @@ URLs to HTTP/3 test servers (usually) available. Draft h3-22 level.
 | https://quic.aiortc.org::4433/ |      yes | aioquic |
 | https://cloudflare-quic.com/ https://quic.tech:8433/ | yes | Quiche |
 | https://facebook.com/ https://fb.mvfst.net:4433/ | no | mvfst |
-| https://quic.rocks:4433/ |             no | Google quiche |
+| https://quic.rocks:4433/ |            yes | Google quiche |
 | https://f5quic.com:4433/ |             no | F5            |
 | https://www.litespeedtech.com |       yes | lsquic        |
 | https://nghttp2.org:4433/ |            no | ngtcp2        |
