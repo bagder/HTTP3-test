@@ -3,7 +3,7 @@ Documentation for early HTTP/3 testing (with curl and more)
 
 ## HTTP/3 test servers
 
-URLs to HTTP/3 test servers (usually) available. Draft h3-22 level.
+URLs to HTTP/3 test servers (usually) available. Most on draft h3-23 level.
 
 | URL | Alt-Svc | Implemenation |
 |-----|---------|---------------|
