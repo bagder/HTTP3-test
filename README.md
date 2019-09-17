@@ -18,4 +18,6 @@ URLs to HTTP/3 test servers (usually) available. Most on draft h3-23 level.
 | https://kazuhooku.com:8443 |           no | quicly        |
 | https://quic.westus.cloudapp.azure.com |no| winquic       |
 
-[source](https://github.com/NTAP/quant/blob/master/test/test_public_servers.sh#L41) - I removed non-responding ones!
+Submit [updates as PRs](https://github.com/bagder/HTTP3-test/pulls)
+
+[Original source](https://github.com/NTAP/quant/blob/master/test/test_public_servers.sh#L41) - I removed non-responding ones!
