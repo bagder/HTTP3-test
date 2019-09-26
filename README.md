@@ -7,7 +7,7 @@ URLs to HTTP/3 test servers (usually) available. Most on draft h3-23 level.
 
 | URL | Alt-Svc | Implemenation |
 |-----|---------|---------------|
-| [quic.aiortc.org](https://quic.aiortc.org:4433/) [pgjones.dev](https://pgjones.dev:4433) |      yes | aioquic |
+| [quic.aiortc.org](https://quic.aiortc.org/) [pgjones.dev](https://pgjones.dev:4433) |      yes | aioquic |
 | [cloudflare-quic.com](https://cloudflare-quic.com/) [quic.tech](https://quic.tech:8433/) | yes | Quiche |
 | [facebook.com](https://facebook.com/) [fb.mvfst.net](https://fb.mvfst.net:4433/) | no | mvfst |
 | [quic.rocks](https://quic.rocks:4433/) |            yes | Google quiche |
