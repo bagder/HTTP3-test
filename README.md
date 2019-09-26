@@ -1,6 +1,3 @@
-# HTTP3-test
-Documentation for early HTTP/3 testing (with curl and more)
-
 ## HTTP/3 test servers
 
 URLs to HTTP/3 test servers (usually) available. Most on draft h3-23 level.
@@ -18,6 +15,5 @@ URLs to HTTP/3 test servers (usually) available. Most on draft h3-23 level.
 | [h2o.examp1e.net](https://h2o.examp1e.net) |         yes | h2o/quicly    |
 | [quic.westus.cloudapp.azure.com](https://quic.westus.cloudapp.azure.com) |no| winquic       |
 
-Submit [updates as PRs](https://github.com/bagder/HTTP3-test/pulls)
 
-[Original source](https://github.com/NTAP/quant/blob/master/test/test_public_servers.sh#L41) - I removed non-responding ones!
+Submit [updates as PRs](https://github.com/bagder/HTTP3-test/pulls)
