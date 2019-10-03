@@ -13,7 +13,7 @@ URLs to HTTP/3 test servers (usually) available. Most on draft h3-23 level.
 | [nghttp2.org](https://nghttp2.org:4433/) |            no | ngtcp2        |
 | [test.privateoctopus.com](https://test.privateoctopus.com:4433/) |no | picoquic      |
 | [h2o.examp1e.net](https://h2o.examp1e.net) |         yes | h2o/quicly    |
-| [quic.westus.cloudapp.azure.com](https://quic.westus.cloudapp.azure.com) |no| winquic       |
+| [quic.westus.cloudapp.azure.com](https://quic.westus.cloudapp.azure.com) |yes| msquic       |
 
 
 Submit [updates as PRs](https://github.com/bagder/HTTP3-test/pulls)
