@@ -1,6 +1,6 @@
 ## HTTP/3 test servers
 
-URLs to HTTP/3 test servers (usually) available. Most on draft h3-23 level.
+URLs to HTTP/3 test servers (usually) available.
 
 | URL | Alt-Svc | Implemenation |
 |-----|---------|---------------|
