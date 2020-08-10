@@ -14,6 +14,7 @@ URLs to HTTP/3 test servers (usually) available.
 | [test.privateoctopus.com](https://test.privateoctopus.com:4433/) |no | picoquic      |
 | [h2o.examp1e.net](https://h2o.examp1e.net) |         yes | h2o/quicly    |
 | [quic.westus.cloudapp.azure.com](https://quic.westus.cloudapp.azure.com) |yes| msquic       |
+| [docs.trafficserver.apache.org](https://docs.trafficserver.apache.org/en/latest/) | yes | Apache Traffic Server
 
 
 Submit [updates as PRs](https://github.com/bagder/HTTP3-test/pulls)
