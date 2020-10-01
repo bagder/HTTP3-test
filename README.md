@@ -5,7 +5,7 @@ URLs to HTTP/3 test servers (usually) available.
 | URL | Alt-Svc | Implemenation |
 |-----|---------|---------------|
 | [quic.aiortc.org](https://quic.aiortc.org/) [pgjones.dev](https://pgjones.dev:4433) |      yes | [aioquic](https://github.com/aiortc/aioquic) |
-| [cloudflare-quic.com](https://cloudflare-quic.com/) [quic.tech](https://quic.tech:8433/) | yes | [Cloudflare Quiche](https://github.com/cloudflare/quiche) |
+| [cloudflare-quic.com](https://cloudflare-quic.com/) [quic.tech](https://quic.tech:8443/) | yes | [Cloudflare Quiche](https://github.com/cloudflare/quiche) |
 | [facebook.com](https://facebook.com/) [fb.mvfst.net](https://fb.mvfst.net:4433/) | no | [mvfst](https://github.com/facebookincubator/mvfst) |
 | [quic.rocks](https://quic.rocks:4433/) |            yes | [Google quiche](https://quiche.googlesource.com/quiche/) |
 | [f5quic.com](https://f5quic.com:4433/) |             no | F5            |
