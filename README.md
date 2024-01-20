@@ -15,6 +15,6 @@ URLs to HTTP/3 test servers (usually) available.
 | [h2o.examp1e.net](https://h2o.examp1e.net) |         yes | h2o/quicly    |
 | [quic.westus.cloudapp.azure.com](https://quic.westus.cloudapp.azure.com) |yes| msquic       |
 | [docs.trafficserver.apache.org](https://docs.trafficserver.apache.org/en/latest/) | yes | Apache Traffic Server
-
+| [open-neurosecurity.org](https://open-neurosecurity.org)| yes | [OpenSSL 3.0.12](https://openssl.org) on top of [nginx](https://nginx.org) 1.25.3.
 
 Submit [updates as PRs](https://github.com/bagder/HTTP3-test/pulls)
